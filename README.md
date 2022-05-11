@@ -2,8 +2,9 @@
 
 ![wave-portal-github](https://user-images.githubusercontent.com/105146670/167845686-3e6b8a6a-fb74-4b49-9f27-4258e40861cb.png)
 
-### 
-Users have to connect their blockchain wallet with the project with the help of "Connect Wallet" button and then they can click the "Wave at Me" button to send you a nice message on the blockchain. The messgae will be visible alongwith the wallet address and message time
+### Wave Portal lets users message and wave at a you on the blockchain 👋
+
+- **Usage:** Users have to connect their blockchain wallet with the project with the help of "Connect Wallet" button and then they can click the "Wave at Me" button to send you a nice message on the blockchain. The messgae will be visible alongwith the wallet address and message time
 - ⚙ Wave Portal is built on Ethereum blokchain (Rinkeby Testnet)
 - 📝 Programmed with the help of JavaScript and Solidity
 - 🎨 Libraries used for the project are Ethers.js and React.js
