@@ -6,7 +6,7 @@
 
 **Usage:** Users have to connect their blockchain wallet with the project with the help of "Connect Wallet" button and then they can click the "Wave at Me" button to send you a nice message on the blockchain. The messgae will be visible alongwith the wallet address and message time
 
-- ⚙ Wave Portal is built on Ethereum blokchain (Rinkeby Testnet)
+- ⚙ Wave Portal is built on Ethereum blokchain
 - 📝 Programmed with the help of JavaScript and Solidity
 - 🎨 Libraries used for the project are Ethers.js and React.js
 
